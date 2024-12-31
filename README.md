@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aman Tiwari</h1>
 <h3 align="center">Data Scientist excels in Python, machine learning, deep learning, and data analysis using tools like TensorFlow, Scikit-learn, and Pandas.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/7jLm.gif">
