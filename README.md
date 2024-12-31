@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Analysis, AI Agents**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmanTiwari005](AmanTiwari005.github.io)
+- 👨‍💻 All of my projects are available at  [AmanTiwari005](https://github.com/AmanTiwari005)
 
 - 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning**
 
