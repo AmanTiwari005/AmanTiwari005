@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **emperioraman@outlook.com**
 
-- 📄 Know about my experiences [Resume]([https://www.dropbox.com/scl/fi/jlyycj75fe12kmsbnwpwz/resume3.o.pdf?rlkey=rzbe3me5ixy914ckh4eh34u7m&st=5xlkni09&dl=0](https://www.dropbox.com/scl/fi/i887zpvm560kh1hqmvr4h/resume3.o.pdf?rlkey=37c5m4ynolrbwsxbgk84u4q5m&st=6cvr9plh&dl=0]))
+- 📄 Know about my experiences [Resume] (https://www.dropbox.com/scl/fi/i887zpvm560kh1hqmvr4h/resume3.o.pdf?rlkey=37c5m4ynolrbwsxbgk84u4q5m&st=6cvr9plh&dl=0])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
