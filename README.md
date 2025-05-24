@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/7jLm.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amantiwari005&label=Profile%20views&color=0e75b6&style=flat" alt="amantiwari005" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis, AI Engineer **
+- 🌱 I’m currently learning Big Data, AI Engineer 
 
 - 👨‍💻 All of my projects are available at  [GitHub](https://github.com/AmanTiwari005)
 
