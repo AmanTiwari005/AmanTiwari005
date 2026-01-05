@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning**
 
-- 📫 How to reach me **emperioraman@outlook.com**
+- 📫 How to reach me **amantiwari312003@gmail.com *
 
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/i887zpvm560kh1hqmvr4h/resume3.o.pdf?rlkey=37c5m4ynolrbwsxbgk84u4q5m&st=xwo7pmjl&dl=0)
+- 📄 Know about my experiences [Resume]([https://www.dropbox.com/scl/fi/i887zpvm560kh1hqmvr4h/resume3.o.pdf?rlkey=37c5m4ynolrbwsxbgk84u4q5m&st=xwo7pmjl&dl=0](https://www.dropbox.com/scl/fi/q4n94pevaoojo28si1eqg/Resume.pdf?rlkey=pet931xxnqus394ln793ttsko&st=n02ht3oq&dl=0))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
